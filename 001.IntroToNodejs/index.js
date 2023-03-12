@@ -1,4 +1,4 @@
-const { isUtf8 } = require('buffer');
+// IN THIS WE GONNA BUILD OUR VERY SIMPLE API ( FILES NEEDED FOR THIS IS INDEX.JS AND DEV-DATA-> DATA.JSON) AND WILL DISPLAY THE JSON DATA ON THE BROWSER
 const fs= require('fs')
 const http= require('http');
 const url=require('url')
